@@ -22,7 +22,8 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 ## Certificates 
 
 ## Contact
-* LinkedIn: 
+* LinkedIn: www.linkedin.com/in/nhật-nguyễn-trần
+* Email: nguyentranminhnhatkd@gmail.com
 
 
 
