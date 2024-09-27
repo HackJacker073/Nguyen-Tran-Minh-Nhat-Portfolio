@@ -5,8 +5,10 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 ## Contents
 * [About me](#about-me)
 * [All of my projects](#projects)
+  
   - [Project xây dựng database Phương Trang BusLines](#Project-xây-dựng-database-Phương-Trang-BusLines)
   - [Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI](#Project-xây-dựng-data-warehouse-phục-vụ-báo-cáo-Sales-của-Highlands-với-Power-BI)
+    
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
 ## All of my projects
