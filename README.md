@@ -12,8 +12,8 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 ## All of my projects
 Đây là nơi tôi giới thiệu các dự án mà tôi đã làm trong suốt những năm đại học.
 ### Project xây dựng database Phương Trang BusLines
-**Mô tả:**Mục tiêu của project nhằm xây dựng database dựa trên mô hình của hãng xe Phương Trang thông qua việc vẽ ERD, RD. Sau đó mô hình quan hệ được hiện thực hóa trên SQL.
-**Tiểu luận đồ án:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%92%20%C3%81N%20CSDL/%C4%90%E1%BB%92-%C3%81N-CSDL-NH%C3%93M-6.pdf">
+**Mô tả:**Mục tiêu của project nhằm xây dựng database dựa trên mô hình của hãng xe Phương Trang thông qua việc vẽ ERD, RD. Sau đó mô hình quan hệ được hiện thực hóa trên SQL.<br>
+**Tiểu luận đồ án:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%92%20%C3%81N%20CSDL/%C4%90%E1%BB%92-%C3%81N-CSDL-NH%C3%93M-6.pdf"> <code></code>ĐỒ-ÁN-CSDL-NHÓM-6.pdf</a><br>
 
 
 
