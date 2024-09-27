@@ -1,6 +1,6 @@
 # Nguyen-Tran-Minh-Nhat-Portfolio
 ## About me
-Hello guys, mình tên Nguyễn Trần Minh Nhật, sinh viên năm 3 ngành Hệ thống thông tin quản lý ở Đại học UEH.<br> 
+Hello guys, mình tên Nguyễn Trần Minh Nhật, sinh viên năm 3 ngành Hệ thống thông tin thông tin kinh doanh ở Đại học UEH.<br> 
 Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn0/wXkas1t2TYlTo7DRcgexGw/edit?utm_content=DAGBnX_vQn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) của mình để xem qua nhé!
 ## Contents
 * [About me](#about-me)
@@ -21,8 +21,9 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 **Script dataset:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%92%20%C3%81N%20CSDL/c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20m%E1%BA%ABu.sql"> <code>cơ sở dữ liệu mẫu.sql</code></a><br>
 ### Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI
 **Mô tả:** <br>
-**Script tạo Data Warehouse và truy vấn MDX:**
+**Script tạo Data Warehouse và truy vấn MDX:** <br>
 **Dashboard báo cáo trên Power BI:** 
+
 ## Certificates 
 
 ## Contact
