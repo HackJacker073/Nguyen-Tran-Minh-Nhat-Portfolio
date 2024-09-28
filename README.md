@@ -22,11 +22,12 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 **Script dataset:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%92%20%C3%81N%20CSDL/c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20m%E1%BA%ABu.sql"> <code>cơ sở dữ liệu mẫu.sql</code></a><br>
 ### Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI
 **Mô tả:** Sử dụng SQL Server để xây dựng Data Warehouse chuyên về mảng Sales của hãng cà phê Highlands sau đó truy vấn đa chiều bằng ngôn ngữ MDX và trực quan hóa trên Power BI. <br>
-**Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> <code>DemoHighlandsSales_DW-3.sql</code><br>
+**Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> 
+<code>DemoHighlandsSales_DW-3.sql</code></a><br>
 **Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix"> <code>HighlandsSales_Report.pbix</code><br>
 ### Data Mining về thực trạng nhà ở xã hội bằng phần mềm Orange
-**Mô tả:** Thực hiện research dataset trên kaggle.com sau đó sử dụng các phương pháp khai phá dữ liệu như phân lớp, gom cụm nhằm xác định thông tin cũng như đề ra giải pháp cho thực trạng.
-**File Orange:**  
+**Mô tả:** Thực hiện research dataset trên https://kaggle.com sau đó sử dụng các phương pháp khai phá dữ liệu như phân lớp, gom cụm nhằm xác định thông tin cũng như đề ra giải pháp cho thực trạng.<br>
+**File Orange:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%93%20%C3%A1n%20Data%20Mining%20v%E1%BB%81%20th%E1%BB%B1c%20tr%E1%BA%A1ng%20nh%C3%A0%20%E1%BB%9F%20x%C3%A3%20h%E1%BB%99i/chung%20c%C6%B0.ows"> <code>chung cư.ows</code></a><br>
 ## Certificates 
 * [Completed as a mentee](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/NGUYEN%20TRAN%20MINH%20NHAT.pdf) - UEH Mentoring
 * [C++ cho người mới bắt đầu](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/C%2B%2B%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u.png) - Codelearn.io
