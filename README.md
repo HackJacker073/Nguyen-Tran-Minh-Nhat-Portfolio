@@ -20,10 +20,11 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 <code>tạo bảng.sql</code></a><br>
 **Script dataset:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/%C4%90%E1%BB%92%20%C3%81N%20CSDL/c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20m%E1%BA%ABu.sql"> <code>cơ sở dữ liệu mẫu.sql</code></a><br>
 ### Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI
-**Mô tả:** <br>
-**Script tạo Data Warehouse và truy vấn MDX:** <br>
-**Dashboard báo cáo trên Power BI:** 
-
+**Mô tả:** Sử dụng SQL Server để xây dựng Data Warehouse chuyên về mảng Sales của hãng cà phê Highlands sau đó truy vấn đa chiều bằng ngôn ngữ MDX và trực quan hóa trên Power BI. <br>
+**Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> <br>
+<code>DemoHighlandsSales_DW-3.sql</code><br>
+**Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix">  
+<code>HighlandsSales_Report.pbix</code><br>
 ## Certificates 
 
 ## Contact
