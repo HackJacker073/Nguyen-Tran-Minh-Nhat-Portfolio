@@ -24,7 +24,8 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 **Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> <code>DemoHighlandsSales_DW-3.sql</code><br>
 **Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix"> <code>HighlandsSales_Report.pbix</code><br>
 ## Certificates 
-
+* [Completed as a mentee at UEH Mentoring](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/NGUYEN%20TRAN%20MINH%20NHAT.pdf)
+* [C++ cho người mới bắt đầu](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/C%2B%2B%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u.png)
 ## Contact
 * LinkedIn: www.linkedin.com/in/nhật-nguyễn-trần
 * Email: nguyentranminhnhatkd@gmail.com
