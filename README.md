@@ -22,7 +22,7 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 ### Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI
 **Mô tả:** Sử dụng SQL Server để xây dựng Data Warehouse chuyên về mảng Sales của hãng cà phê Highlands sau đó truy vấn đa chiều bằng ngôn ngữ MDX và trực quan hóa trên Power BI. <br>
 **Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> <code>DemoHighlandsSales_DW-3.sql</code><br>
-**Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix">  <code>HighlandsSales_Report.pbix</code><br>
+**Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix"> <code>HighlandsSales_Report.pbix</code><br>
 ## Certificates 
 
 ## Contact
