@@ -1,6 +1,6 @@
 # Nguyen-Tran-Minh-Nhat-Portfolio
 ## About me
-Hello guys, mình tên Nguyễn Trần Minh Nhật, sinh viên năm 3 ngành Hệ thống thông tin thông tin kinh doanh ở Đại học UEH.<br> 
+Hello guys, mình tên Nguyễn Trần Minh Nhật, sinh viên năm 3 ngành Hệ thống thông tin thông tin kinh doanh ở Đại học UEH. Mình có niềm đam mê mãnh liệt với công việc BA, vì thế mình đã quyết định chọn ngành này nhằm rèn giũa kỹ năng nghiệp vụ của mình. Nhằm cải thiện Tiếng Anh, mình đã tham gia vào câu lạc bộ Anh văn BELL CLUB và đã từng là thành viên trong ban tổ chức của một buổi Sharing Day cho toàn bộ sinh viên UEH.<br> Ngoài background CNTT, mình còn được học các môn kế toán và nghiệp vụ kinh doanh. <br>
 Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn0/wXkas1t2TYlTo7DRcgexGw/edit?utm_content=DAGBnX_vQn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) của mình để xem qua nhé!
 ## Contents
 * [About me](#about-me)
@@ -8,6 +8,7 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
   
   - [Project xây dựng database Phương Trang BusLines](#Project-xây-dựng-database-Phương-Trang-BusLines)
   - [Project xây dựng Data Warehouse phục vụ báo cáo Sales của Highlands với Power BI](#Project-xây-dựng-data-warehouse-phục-vụ-báo-cáo-Sales-của-Highlands-với-Power-BI)
+  - [Data Mining về thực trạng nhà ở xã hội bằng phần mềm Orange](#Data-mining-về-thực-trạng-nhà-ở-xã-hội-bằng-phần-mềm-Orange)
     
 * [Certificates](#Certificates)
 * [Contacts](#Contacts)
@@ -23,9 +24,12 @@ Mọi người có thể đọc [**CV**](https://www.canva.com/design/DAGBnX_vQn
 **Mô tả:** Sử dụng SQL Server để xây dựng Data Warehouse chuyên về mảng Sales của hãng cà phê Highlands sau đó truy vấn đa chiều bằng ngôn ngữ MDX và trực quan hóa trên Power BI. <br>
 **Script tạo Data Warehouse và truy vấn MDX:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/DemoHighlandsSales_DW-3.sql"> <code>DemoHighlandsSales_DW-3.sql</code><br>
 **Dashboard báo cáo trên Power BI:** <a href = "https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Highlands_Sales/HighlandsSales_Report.pbix"> <code>HighlandsSales_Report.pbix</code><br>
+### Data Mining về thực trạng nhà ở xã hội bằng phần mềm Orange
+**Mô tả:** Thực hiện research dataset trên kaggle.com sau đó sử dụng các phương pháp khai phá dữ liệu như phân lớp, gom cụm nhằm xác định thông tin cũng như đề ra giải pháp cho thực trạng.
+**File Orange:**  
 ## Certificates 
-* [Completed as a mentee at UEH Mentoring](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/NGUYEN%20TRAN%20MINH%20NHAT.pdf)
-* [C++ cho người mới bắt đầu](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/C%2B%2B%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u.png)
+* [Completed as a mentee](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/NGUYEN%20TRAN%20MINH%20NHAT.pdf) - UEH Mentoring
+* [C++ cho người mới bắt đầu](https://github.com/HackJacker073/Nguyen-Tran-Minh-Nhat-Portfolio/blob/main/Certificates/C%2B%2B%20cho%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u.png) - Codelearn.io
 ## Contact
 * LinkedIn: www.linkedin.com/in/nhật-nguyễn-trần
 * Email: nguyentranminhnhatkd@gmail.com
